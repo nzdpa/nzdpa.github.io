@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   A space for my geeky experiments, failures and random ramblings.
   All views are my own and do not reflect those of my employer.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://daveland.co.nz" # the base hostname & protocol for your site
+url: "http://www.daveland.co.nz" # the base hostname & protocol for your site
 twitter_username: davidanso
 github_username:  nzdpa
 linkedin_username:  david-anso-a85a69b
