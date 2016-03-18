@@ -19,3 +19,4 @@ linkedin_username:  david-anso-a85a69b
 
 # Build settings
 markdown: kramdown
+timezone: Pacific/Auckland
